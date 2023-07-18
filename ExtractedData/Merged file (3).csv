@@ -1,0 +1,646 @@
+﻿web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294877-578,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,FC Porto,1,82,26,4,1,79,20,Jornada 31
+1668294877-579,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,Sporting,2,76,24,4,3,62,20,Jornada 31
+1668294877-580,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,Benfica,3,68,21,5,5,75,29,Jornada 31
+1668294877-581,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,SC Braga,4,59,17,8,6,48,28,Jornada 31
+1668294877-582,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,Gil Vicente,5,48,12,12,7,43,33,Jornada 31
+1668294877-583,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,Vitória SC,6,43,12,7,12,43,39,Jornada 31
+1668294877-584,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,Marítimo,7,37,9,10,12,38,41,Jornada 31
+1668294877-585,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,Paços de Ferreira,8,37,9,10,12,28,39,Jornada 31
+1668294877-586,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,Santa Clara,9,36,8,12,11,35,49,Jornada 31
+1668294877-587,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,Estoril Praia,10,36,8,12,11,34,38,Jornada 31
+1668294877-588,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,Portimonense,11,35,9,8,14,28,41,Jornada 31
+1668294877-589,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,Boavista,12,33,6,15,10,34,48,Jornada 31
+1668294877-590,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,FC Vizela,13,32,7,11,13,33,49,Jornada 31
+1668294877-591,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,FC Famalicão,14,30,6,12,13,36,46,Jornada 31
+1668294877-592,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,FC Arouca,15,27,6,9,16,29,53,Jornada 31
+1668294877-593,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,Moreirense,16,26,6,8,17,28,47,Jornada 31
+1668294877-594,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,CD Tondela,17,26,7,5,19,38,61,Jornada 31
+1668294877-595,https://www.zerozero.pt/edition.php?jornada_in=31&id_edicao=156405&fase=150343,B SAD,18,25,5,10,16,21,51,Jornada 31
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294497-560,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,FC Porto,1,82,26,4,0,79,19,Jornada 30
+1668294497-561,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,Sporting,2,73,23,4,3,59,20,Jornada 30
+1668294497-562,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,Benfica,3,67,21,4,5,75,29,Jornada 30
+1668294497-563,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,SC Braga,4,56,16,8,6,47,28,Jornada 30
+1668294497-564,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,Gil Vicente,5,47,12,11,7,42,32,Jornada 30
+1668294497-565,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,Vitória SC,6,42,12,6,12,42,38,Jornada 30
+1668294497-566,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,Marítimo,7,36,9,9,12,36,39,Jornada 30
+1668294497-567,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,Paços de Ferreira,8,36,9,9,12,27,38,Jornada 30
+1668294497-568,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,Santa Clara,9,35,8,11,11,33,47,Jornada 30
+1668294497-569,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,Estoril Praia,10,35,8,11,11,32,36,Jornada 30
+1668294497-570,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,Boavista,11,33,6,15,9,34,45,Jornada 30
+1668294497-571,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,Portimonense,12,32,8,8,14,27,41,Jornada 30
+1668294497-572,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,FC Famalicão,13,29,6,11,13,36,46,Jornada 30
+1668294497-573,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,FC Vizela,14,29,6,11,13,31,48,Jornada 30
+1668294497-574,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,FC Arouca,15,27,6,9,15,28,51,Jornada 30
+1668294497-575,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,Moreirense,16,26,6,8,16,28,46,Jornada 30
+1668294497-576,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,CD Tondela,17,25,7,4,19,37,60,Jornada 30
+1668294497-577,https://www.zerozero.pt/edition.php?jornada_in=30&id_edicao=156405&fase=150343,B SAD,18,24,5,9,16,19,49,Jornada 30
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294431-542,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,FC Porto,1,79,25,4,0,72,19,Jornada 29
+1668294431-543,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,Sporting,2,73,23,4,2,59,18,Jornada 29
+1668294431-544,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,Benfica,3,64,20,4,5,73,29,Jornada 29
+1668294431-545,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,SC Braga,4,55,16,7,6,47,28,Jornada 29
+1668294431-546,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,Gil Vicente,5,46,12,10,7,40,30,Jornada 29
+1668294431-547,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,Vitória SC,6,39,11,6,12,38,38,Jornada 29
+1668294431-548,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,Paços de Ferreira,7,36,9,9,11,27,34,Jornada 29
+1668294431-549,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,Santa Clara,8,34,8,10,11,32,46,Jornada 29
+1668294431-550,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,Estoril Praia,9,34,8,10,11,32,36,Jornada 29
+1668294431-551,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,Marítimo,10,33,8,9,12,32,39,Jornada 29
+1668294431-552,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,Boavista,11,33,6,15,8,34,41,Jornada 29
+1668294431-553,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,Portimonense,12,32,8,8,13,27,34,Jornada 29
+1668294431-554,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,FC Vizela,13,29,6,11,12,31,47,Jornada 29
+1668294431-555,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,FC Famalicão,14,28,6,10,13,34,44,Jornada 29
+1668294431-556,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,FC Arouca,15,26,6,8,15,27,50,Jornada 29
+1668294431-557,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,CD Tondela,16,25,7,4,18,37,58,Jornada 29
+1668294431-558,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,Moreirense,17,23,5,8,16,26,46,Jornada 29
+1668294431-559,https://www.zerozero.pt/edition.php?jornada_in=29&id_edicao=156405&fase=150343,B SAD,18,21,4,9,16,18,49,Jornada 29
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294391-524,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,FC Porto,1,76,24,4,0,71,19,Jornada 28
+1668294391-525,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,Sporting,2,70,22,4,2,56,17,Jornada 28
+1668294391-526,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,Benfica,3,61,19,4,5,70,28,Jornada 28
+1668294391-527,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,SC Braga,4,52,15,7,6,46,28,Jornada 28
+1668294391-528,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,Gil Vicente,5,46,12,10,6,39,28,Jornada 28
+1668294391-529,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,Vitória SC,6,39,11,6,11,38,37,Jornada 28
+1668294391-530,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,Estoril Praia,7,34,8,10,10,32,34,Jornada 28
+1668294391-531,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,Marítimo,8,33,8,9,11,32,37,Jornada 28
+1668294391-532,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,Paços de Ferreira,9,33,8,9,11,25,34,Jornada 28
+1668294391-533,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,Santa Clara,10,31,7,10,11,30,46,Jornada 28
+1668294391-534,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,Boavista,11,30,5,15,8,33,41,Jornada 28
+1668294391-535,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,Portimonense,12,29,7,8,13,26,34,Jornada 28
+1668294391-536,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,FC Vizela,13,29,6,11,11,31,46,Jornada 28
+1668294391-537,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,FC Famalicão,14,28,6,10,12,34,43,Jornada 28
+1668294391-538,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,FC Arouca,15,26,6,8,14,27,49,Jornada 28
+1668294391-539,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,CD Tondela,16,25,7,4,17,36,55,Jornada 28
+1668294391-540,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,B SAD,17,21,4,9,15,17,46,Jornada 28
+1668294391-541,https://www.zerozero.pt/edition.php?jornada_in=28&id_edicao=156405&fase=150343,Moreirense,18,20,4,8,16,24,45,Jornada 28
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294351-506,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,FC Porto,1,73,23,4,0,68,19,Jornada 27
+1668294351-507,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,Sporting,2,67,21,4,2,54,17,Jornada 27
+1668294351-508,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,Benfica,3,61,19,4,4,68,25,Jornada 27
+1668294351-509,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,SC Braga,4,49,14,7,6,43,26,Jornada 27
+1668294351-510,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,Gil Vicente,5,46,12,10,5,38,26,Jornada 27
+1668294351-511,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,Vitória SC,6,36,10,6,11,37,37,Jornada 27
+1668294351-512,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,Estoril Praia,7,34,8,10,9,31,32,Jornada 27
+1668294351-513,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,Marítimo,8,33,8,9,10,31,34,Jornada 27
+1668294351-514,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,Paços de Ferreira,9,33,8,9,10,25,32,Jornada 27
+1668294351-515,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,Santa Clara,10,31,7,10,10,30,43,Jornada 27
+1668294351-516,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,Portimonense,11,29,7,8,12,26,32,Jornada 27
+1668294351-517,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,FC Famalicão,12,28,6,10,11,33,41,Jornada 27
+1668294351-518,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,Boavista,13,27,4,15,8,31,40,Jornada 27
+1668294351-519,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,FC Vizela,14,26,5,11,11,29,45,Jornada 27
+1668294351-520,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,FC Arouca,15,23,5,8,14,25,48,Jornada 27
+1668294351-521,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,CD Tondela,16,22,6,4,17,33,54,Jornada 27
+1668294351-522,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,Moreirense,17,20,4,8,15,24,44,Jornada 27
+1668294351-523,https://www.zerozero.pt/edition.php?jornada_in=27&id_edicao=156405&fase=150343,B SAD,18,18,3,9,15,15,46,Jornada 27
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294311-488,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,FC Porto,1,70,22,4,0,67,19,Jornada 26
+1668294311-489,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,Sporting,2,64,20,4,2,51,16,Jornada 26
+1668294311-490,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,Benfica,3,58,18,4,4,66,24,Jornada 26
+1668294311-491,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,SC Braga,4,46,13,7,6,41,25,Jornada 26
+1668294311-492,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,Gil Vicente,5,45,12,9,5,37,25,Jornada 26
+1668294311-493,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,Vitória SC,6,36,10,6,10,36,34,Jornada 26
+1668294311-494,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,Estoril Praia,7,34,8,10,8,30,30,Jornada 26
+1668294311-495,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,Marítimo,8,32,8,8,10,30,33,Jornada 26
+1668294311-496,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,Paços de Ferreira,9,30,7,9,10,23,31,Jornada 26
+1668294311-497,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,Santa Clara,10,30,7,9,10,30,43,Jornada 26
+1668294311-498,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,Portimonense,11,29,7,8,11,25,30,Jornada 26
+1668294311-499,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,FC Famalicão,12,27,6,9,11,32,40,Jornada 26
+1668294311-500,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,Boavista,13,27,4,15,7,31,39,Jornada 26
+1668294311-501,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,FC Vizela,14,25,5,10,11,28,44,Jornada 26
+1668294311-502,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,FC Arouca,15,22,5,7,14,23,46,Jornada 26
+1668294311-503,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,CD Tondela,16,21,6,3,17,31,52,Jornada 26
+1668294311-504,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,Moreirense,17,20,4,8,14,23,42,Jornada 26
+1668294311-505,https://www.zerozero.pt/edition.php?jornada_in=26&id_edicao=156405&fase=150343,B SAD,18,17,3,8,15,15,46,Jornada 26
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294281-470,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,FC Porto,1,67,21,4,0,63,19,Jornada 25
+1668294281-471,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,Sporting,2,61,19,4,2,49,16,Jornada 25
+1668294281-472,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,Benfica,3,57,18,3,4,65,23,Jornada 25
+1668294281-473,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,SC Braga,4,46,13,7,5,41,24,Jornada 25
+1668294281-474,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,Gil Vicente,5,42,11,9,5,36,25,Jornada 25
+1668294281-475,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,Vitória SC,6,33,9,6,10,35,34,Jornada 25
+1668294281-476,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,Marítimo,7,32,8,8,9,30,32,Jornada 25
+1668294281-477,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,Estoril Praia,8,31,7,10,8,28,30,Jornada 25
+1668294281-478,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,Portimonense,9,29,7,8,10,25,28,Jornada 25
+1668294281-479,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,Santa Clara,10,29,7,8,10,30,43,Jornada 25
+1668294281-480,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,Paços de Ferreira,11,27,6,9,10,22,31,Jornada 25
+1668294281-481,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,FC Famalicão,12,26,6,8,11,32,40,Jornada 25
+1668294281-482,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,Boavista,13,26,4,14,7,31,39,Jornada 25
+1668294281-483,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,FC Vizela,14,24,5,9,11,27,43,Jornada 25
+1668294281-484,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,FC Arouca,15,22,5,7,13,23,45,Jornada 25
+1668294281-485,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,CD Tondela,16,21,6,3,16,31,48,Jornada 25
+1668294281-486,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,Moreirense,17,20,4,8,13,23,40,Jornada 25
+1668294281-487,https://www.zerozero.pt/edition.php?jornada_in=25&id_edicao=156405&fase=150343,B SAD,18,16,3,7,15,15,46,Jornada 25
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294217-452,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,FC Porto,1,64,20,4,0,59,17,Jornada 24
+1668294217-453,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,Sporting,2,58,18,4,2,47,16,Jornada 24
+1668294217-454,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,Benfica,3,54,17,3,4,63,22,Jornada 24
+1668294217-455,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,SC Braga,4,45,13,6,5,40,23,Jornada 24
+1668294217-456,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,Gil Vicente,5,41,11,8,5,36,25,Jornada 24
+1668294217-457,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,Vitória SC,6,30,8,6,10,33,33,Jornada 24
+1668294217-458,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,Estoril Praia,7,30,7,9,8,28,30,Jornada 24
+1668294217-459,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,Marítimo,8,29,7,8,9,29,32,Jornada 24
+1668294217-460,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,Portimonense,9,29,7,8,9,24,26,Jornada 24
+1668294217-461,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,Paços de Ferreira,10,27,6,9,9,20,27,Jornada 24
+1668294217-462,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,FC Famalicão,11,26,6,8,10,31,38,Jornada 24
+1668294217-463,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,Santa Clara,12,26,6,8,10,27,42,Jornada 24
+1668294217-464,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,Boavista,13,25,4,13,7,30,38,Jornada 24
+1668294217-465,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,FC Vizela,14,24,5,9,10,26,40,Jornada 24
+1668294217-466,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,FC Arouca,15,22,5,7,12,23,43,Jornada 24
+1668294217-467,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,CD Tondela,16,20,6,2,16,30,47,Jornada 24
+1668294217-468,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,Moreirense,17,20,4,8,12,23,39,Jornada 24
+1668294217-469,https://www.zerozero.pt/edition.php?jornada_in=24&id_edicao=156405&fase=150343,B SAD,18,15,3,6,15,14,45,Jornada 24
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294171-434,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,FC Porto,1,63,20,3,0,58,16,Jornada 23
+1668294171-435,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,Sporting,2,57,18,3,2,46,15,Jornada 23
+1668294171-436,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,Benfica,3,51,16,3,4,60,22,Jornada 23
+1668294171-437,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,SC Braga,4,44,13,5,5,40,23,Jornada 23
+1668294171-438,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,Gil Vicente,5,40,11,7,5,35,24,Jornada 23
+1668294171-439,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,Vitória SC,6,30,8,6,9,33,30,Jornada 23
+1668294171-440,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,Estoril Praia,7,30,7,9,7,26,27,Jornada 23
+1668294171-441,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,Marítimo,8,28,7,7,9,28,31,Jornada 23
+1668294171-442,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,Portimonense,9,28,7,7,9,23,25,Jornada 23
+1668294171-443,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,Santa Clara,10,25,6,7,10,27,42,Jornada 23
+1668294171-444,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,Paços de Ferreira,11,24,5,9,9,18,27,Jornada 23
+1668294171-445,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,FC Vizela,12,23,5,8,10,25,39,Jornada 23
+1668294171-446,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,FC Famalicão,13,23,5,8,10,29,37,Jornada 23
+1668294171-447,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,Boavista,14,22,3,13,7,27,36,Jornada 23
+1668294171-448,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,FC Arouca,15,21,5,6,12,22,42,Jornada 23
+1668294171-449,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,CD Tondela,16,20,6,2,15,29,45,Jornada 23
+1668294171-450,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,Moreirense,17,19,4,7,12,22,38,Jornada 23
+1668294171-451,https://www.zerozero.pt/edition.php?jornada_in=23&id_edicao=156405&fase=150343,B SAD,18,15,3,6,14,14,43,Jornada 23
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294136-416,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,FC Porto,1,60,19,3,0,57,16,Jornada 22
+1668294136-417,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,Sporting,2,54,17,3,2,43,15,Jornada 22
+1668294136-418,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,Benfica,3,50,16,2,4,58,20,Jornada 22
+1668294136-419,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,SC Braga,4,41,12,5,5,39,23,Jornada 22
+1668294136-420,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,Gil Vicente,5,37,10,7,5,33,24,Jornada 22
+1668294136-421,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,Vitória SC,6,30,8,6,8,32,27,Jornada 22
+1668294136-422,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,Estoril Praia,7,30,7,9,6,26,24,Jornada 22
+1668294136-423,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,Marítimo,8,28,7,7,8,28,30,Jornada 22
+1668294136-424,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,Portimonense,9,27,7,6,9,22,24,Jornada 22
+1668294136-425,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,Santa Clara,10,24,6,6,10,26,41,Jornada 22
+1668294136-426,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,FC Vizela,11,23,5,8,9,24,37,Jornada 22
+1668294136-427,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,Boavista,12,21,3,12,7,25,34,Jornada 22
+1668294136-428,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,Paços de Ferreira,13,21,4,9,9,16,26,Jornada 22
+1668294136-429,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,CD Tondela,14,20,6,2,14,29,44,Jornada 22
+1668294136-430,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,FC Famalicão,15,20,4,8,10,28,37,Jornada 22
+1668294136-431,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,Moreirense,16,19,4,7,11,22,37,Jornada 22
+1668294136-432,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,FC Arouca,17,18,4,6,12,19,41,Jornada 22
+1668294136-433,https://www.zerozero.pt/edition.php?jornada_in=22&id_edicao=156405&fase=150343,B SAD,18,15,3,6,13,14,41,Jornada 22
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294095-398,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,FC Porto,1,59,19,2,0,55,14,Jornada 21
+1668294095-399,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,Sporting,2,53,17,2,2,41,13,Jornada 21
+1668294095-400,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,Benfica,3,47,15,2,4,56,19,Jornada 21
+1668294095-401,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,SC Braga,4,38,11,5,5,37,22,Jornada 21
+1668294095-402,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,Gil Vicente,5,34,9,7,5,32,24,Jornada 21
+1668294095-403,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,Vitória SC,6,30,8,6,7,32,26,Jornada 21
+1668294095-404,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,Estoril Praia,7,27,6,9,6,25,24,Jornada 21
+1668294095-405,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,Portimonense,8,26,7,5,9,21,23,Jornada 21
+1668294095-406,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,Marítimo,9,25,6,7,8,25,30,Jornada 21
+1668294095-407,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,Santa Clara,10,24,6,6,9,25,39,Jornada 21
+1668294095-408,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,FC Vizela,11,23,5,8,8,24,36,Jornada 21
+1668294095-409,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,Paços de Ferreira,12,21,4,9,8,15,24,Jornada 21
+1668294095-410,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,CD Tondela,13,20,6,2,13,29,43,Jornada 21
+1668294095-411,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,Boavista,14,20,3,11,7,24,33,Jornada 21
+1668294095-412,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,Moreirense,15,19,4,7,10,22,32,Jornada 21
+1668294095-413,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,FC Arouca,16,18,4,6,11,19,38,Jornada 21
+1668294095-414,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,FC Famalicão,17,17,3,8,10,23,37,Jornada 21
+1668294095-415,https://www.zerozero.pt/edition.php?jornada_in=21&id_edicao=156405&fase=150343,B SAD,18,12,2,6,13,13,41,Jornada 21
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294031-362,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,FC Porto,1,53,17,2,0,51,13,Jornada 19
+1668294031-363,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,Sporting,2,47,15,2,2,35,12,Jornada 19
+1668294031-364,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,Benfica,3,44,14,2,3,52,16,Jornada 19
+1668294031-365,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,SC Braga,4,35,10,5,4,34,20,Jornada 19
+1668294031-366,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,Gil Vicente,5,30,8,6,5,28,21,Jornada 19
+1668294031-367,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,Vitória SC,6,27,7,6,6,28,22,Jornada 19
+1668294031-368,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,Estoril Praia,7,25,6,7,6,25,24,Jornada 19
+1668294031-369,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,Portimonense,8,25,7,4,8,19,20,Jornada 19
+1668294031-370,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,Marítimo,9,24,6,6,7,24,28,Jornada 19
+1668294031-371,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,Santa Clara,10,20,5,5,9,21,36,Jornada 19
+1668294031-372,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,Boavista,11,19,3,10,6,21,29,Jornada 19
+1668294031-373,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,FC Vizela,12,19,4,7,8,19,32,Jornada 19
+1668294031-374,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,Paços de Ferreira,13,19,4,7,8,14,23,Jornada 19
+1668294031-375,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,FC Arouca,14,17,4,5,10,19,36,Jornada 19
+1668294031-376,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,CD Tondela,15,17,5,2,12,26,39,Jornada 19
+1668294031-377,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,FC Famalicão,16,16,3,7,9,23,35,Jornada 19
+1668294031-378,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,Moreirense,17,16,3,7,9,18,29,Jornada 19
+1668294031-379,https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=156405&fase=150343,B SAD,18,12,2,6,11,11,33,Jornada 19
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293952-344,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,FC Porto,1,50,16,2,0,48,12,Jornada 18
+1668293952-345,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,Sporting,2,47,15,2,1,34,10,Jornada 18
+1668293952-346,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,Benfica,3,41,13,2,3,50,16,Jornada 18
+1668293952-347,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,SC Braga,4,32,9,5,4,32,19,Jornada 18
+1668293952-348,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,Gil Vicente,5,27,7,6,5,27,21,Jornada 18
+1668293952-349,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,Estoril Praia,6,25,6,7,5,24,21,Jornada 18
+1668293952-350,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,Portimonense,7,25,7,4,7,19,19,Jornada 18
+1668293952-351,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,Vitória SC,8,24,6,6,6,25,21,Jornada 18
+1668293952-352,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,Marítimo,9,23,6,5,7,23,27,Jornada 18
+1668293952-353,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,Boavista,10,18,3,9,6,20,28,Jornada 18
+1668293952-354,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,Paços de Ferreira,11,18,4,6,8,13,22,Jornada 18
+1668293952-355,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,CD Tondela,12,17,5,2,11,24,36,Jornada 18
+1668293952-356,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,Santa Clara,13,17,4,5,9,19,36,Jornada 18
+1668293952-357,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,FC Arouca,14,17,4,5,9,19,34,Jornada 18
+1668293952-358,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,Moreirense,15,16,3,7,8,18,27,Jornada 18
+1668293952-359,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,FC Famalicão,16,16,3,7,8,22,32,Jornada 18
+1668293952-360,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,FC Vizela,17,16,3,7,8,16,30,Jornada 18
+1668293952-361,https://www.zerozero.pt/edition.php?jornada_in=18&id_edicao=156405&fase=150343,B SAD,18,11,2,5,11,10,32,Jornada 18
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293873-326,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,FC Porto,1,47,15,2,0,44,11,Jornada 17
+1668293873-327,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,Sporting,2,44,14,2,1,32,10,Jornada 17
+1668293873-328,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,Benfica,3,40,13,1,3,49,15,Jornada 17
+1668293873-329,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,SC Braga,4,32,9,5,3,32,18,Jornada 17
+1668293873-330,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,Gil Vicente,5,26,7,5,5,26,20,Jornada 17
+1668293873-331,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,Estoril Praia,6,25,6,7,4,23,19,Jornada 17
+1668293873-332,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,Portimonense,7,24,7,3,7,18,18,Jornada 17
+1668293873-333,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,Vitória SC,8,23,6,5,6,24,20,Jornada 17
+1668293873-334,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,Marítimo,9,20,5,5,7,22,27,Jornada 17
+1668293873-335,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,Boavista,10,17,3,8,6,19,27,Jornada 17
+1668293873-336,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,Paços de Ferreira,11,17,4,5,8,13,22,Jornada 17
+1668293873-337,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,FC Vizela,12,16,3,7,7,16,28,Jornada 17
+1668293873-338,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,CD Tondela,13,16,5,1,11,22,34,Jornada 17
+1668293873-339,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,Santa Clara,14,16,4,4,9,17,34,Jornada 17
+1668293873-340,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,FC Famalicão,15,15,3,6,8,22,32,Jornada 17
+1668293873-341,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,Moreirense,16,15,3,6,8,17,26,Jornada 17
+1668293873-342,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,FC Arouca,17,14,3,5,9,17,33,Jornada 17
+1668293873-343,https://www.zerozero.pt/edition.php?jornada_in=17&id_edicao=156405&fase=150343,B SAD,18,11,2,5,10,9,28,Jornada 17
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293816-308,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,FC Porto,1,44,14,2,0,41,9,Jornada 16
+1668293816-309,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,Sporting,2,44,14,2,0,30,7,Jornada 16
+1668293816-310,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,Benfica,3,37,12,1,3,47,15,Jornada 16
+1668293816-311,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,SC Braga,4,31,9,4,3,30,16,Jornada 16
+1668293816-312,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,Estoril Praia,5,25,6,7,3,21,16,Jornada 16
+1668293816-313,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,Portimonense,6,24,7,3,6,17,16,Jornada 16
+1668293816-314,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,Gil Vicente,7,23,6,5,5,23,18,Jornada 16
+1668293816-315,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,Vitória SC,8,23,6,5,5,22,17,Jornada 16
+1668293816-316,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,Marítimo,9,17,4,5,7,20,26,Jornada 16
+1668293816-317,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,Paços de Ferreira,10,17,4,5,7,13,20,Jornada 16
+1668293816-318,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,Boavista,11,16,3,7,6,18,26,Jornada 16
+1668293816-319,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,FC Vizela,12,16,3,7,6,16,27,Jornada 16
+1668293816-320,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,CD Tondela,13,15,5,0,11,21,33,Jornada 16
+1668293816-321,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,FC Arouca,14,14,3,5,8,16,31,Jornada 16
+1668293816-322,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,FC Famalicão,15,14,3,5,8,20,30,Jornada 16
+1668293816-323,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,Santa Clara,16,13,3,4,9,14,32,Jornada 16
+1668293816-324,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,Moreirense,17,12,2,6,8,16,26,Jornada 16
+1668293816-325,https://www.zerozero.pt/edition.php?jornada_in=16&id_edicao=156405&fase=150343,B SAD,18,8,1,5,10,7,27,Jornada 16
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293776-290,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,FC Porto,1,41,13,2,0,38,8,Jornada 15
+1668293776-291,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,Sporting,2,41,13,2,0,27,5,Jornada 15
+1668293776-292,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,Benfica,3,37,12,1,2,46,12,Jornada 15
+1668293776-293,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,SC Braga,4,28,8,4,3,24,16,Jornada 15
+1668293776-294,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,Estoril Praia,5,25,6,7,2,21,15,Jornada 15
+1668293776-295,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,Portimonense,6,24,7,3,5,15,13,Jornada 15
+1668293776-296,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,Vitória SC,7,22,6,4,5,21,16,Jornada 15
+1668293776-297,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,Gil Vicente,8,20,5,5,5,20,18,Jornada 15
+1668293776-298,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,FC Vizela,9,16,3,7,5,16,25,Jornada 15
+1668293776-299,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,Boavista,10,15,3,6,6,17,25,Jornada 15
+1668293776-300,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,CD Tondela,11,15,5,0,10,21,30,Jornada 15
+1668293776-301,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,Marítimo,12,14,3,5,7,18,26,Jornada 15
+1668293776-302,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,FC Arouca,13,14,3,5,7,16,25,Jornada 15
+1668293776-303,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,Paços de Ferreira,14,14,3,5,7,11,19,Jornada 15
+1668293776-304,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,Santa Clara,15,13,3,4,8,13,30,Jornada 15
+1668293776-305,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,FC Famalicão,16,11,2,5,8,19,30,Jornada 15
+1668293776-306,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,Moreirense,17,9,1,6,8,15,26,Jornada 15
+1668293776-307,https://www.zerozero.pt/edition.php?jornada_in=15&id_edicao=156405&fase=150343,B SAD,18,8,1,5,9,7,26,Jornada 15
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293735-272,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,FC Porto,1,38,12,2,0,34,8,Jornada 14
+1668293735-273,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,Sporting,2,38,12,2,0,24,5,Jornada 14
+1668293735-274,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,Benfica,3,34,11,1,2,39,11,Jornada 14
+1668293735-275,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,SC Braga,4,25,7,4,3,23,16,Jornada 14
+1668293735-276,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,Estoril Praia,5,24,6,6,2,19,13,Jornada 14
+1668293735-277,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,Portimonense,6,23,7,2,5,14,12,Jornada 14
+1668293735-278,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,Vitória SC,7,22,6,4,4,21,15,Jornada 14
+1668293735-279,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,Gil Vicente,8,20,5,5,4,20,15,Jornada 14
+1668293735-280,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,FC Vizela,9,16,3,7,4,16,21,Jornada 14
+1668293735-281,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,CD Tondela,10,15,5,0,9,21,29,Jornada 14
+1668293735-282,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,Marítimo,11,14,3,5,6,17,19,Jornada 14
+1668293735-283,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,FC Arouca,12,13,3,4,7,15,24,Jornada 14
+1668293735-284,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,Boavista,13,12,2,6,6,16,25,Jornada 14
+1668293735-285,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,Paços de Ferreira,14,11,2,5,7,10,19,Jornada 14
+1668293735-286,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,FC Famalicão,15,10,2,4,8,17,28,Jornada 14
+1668293735-287,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,Santa Clara,16,10,2,4,8,12,30,Jornada 14
+1668293735-288,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,Moreirense,17,9,1,6,7,15,25,Jornada 14
+1668293735-289,https://www.zerozero.pt/edition.php?jornada_in=14&id_edicao=156405&fase=150343,B SAD,18,8,1,5,8,7,25,Jornada 14
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293705-254,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,FC Porto,1,35,11,2,0,33,8,Jornada 13
+1668293705-255,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,Sporting,2,35,11,2,0,22,5,Jornada 13
+1668293705-256,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,Benfica,3,31,10,1,2,35,10,Jornada 13
+1668293705-257,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,SC Braga,4,25,7,4,2,23,15,Jornada 13
+1668293705-258,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,Estoril Praia,5,21,5,6,2,18,13,Jornada 13
+1668293705-259,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,Portimonense,6,20,6,2,5,13,12,Jornada 13
+1668293705-260,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,Vitória SC,7,19,5,4,4,16,13,Jornada 13
+1668293705-261,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,Gil Vicente,8,17,4,5,4,19,15,Jornada 13
+1668293705-262,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,CD Tondela,9,15,5,0,8,19,24,Jornada 13
+1668293705-263,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,FC Arouca,10,13,3,4,6,14,20,Jornada 13
+1668293705-264,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,FC Vizela,11,13,2,7,4,12,20,Jornada 13
+1668293705-265,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,Boavista,12,12,2,6,5,16,23,Jornada 13
+1668293705-266,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,Marítimo,13,11,2,5,6,13,18,Jornada 13
+1668293705-267,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,Paços de Ferreira,14,11,2,5,6,10,18,Jornada 13
+1668293705-268,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,FC Famalicão,15,10,2,4,7,16,24,Jornada 13
+1668293705-269,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,Santa Clara,16,10,2,4,7,11,26,Jornada 13
+1668293705-270,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,Moreirense,17,9,1,6,6,15,24,Jornada 13
+1668293705-271,https://www.zerozero.pt/edition.php?jornada_in=13&id_edicao=156405&fase=150343,B SAD,18,8,1,5,7,7,24,Jornada 13
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293661-236,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,FC Porto,1,32,10,2,0,30,8,Jornada 12
+1668293661-237,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,Sporting,2,32,10,2,0,19,4,Jornada 12
+1668293661-238,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,Benfica,3,31,10,1,1,34,7,Jornada 12
+1668293661-239,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,SC Braga,4,22,6,4,2,21,15,Jornada 12
+1668293661-240,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,Estoril Praia,5,21,5,6,1,18,11,Jornada 12
+1668293661-241,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,Portimonense,6,20,6,2,4,13,9,Jornada 12
+1668293661-242,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,Vitória SC,7,16,4,4,4,14,12,Jornada 12
+1668293661-243,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,Gil Vicente,8,14,3,5,4,15,15,Jornada 12
+1668293661-244,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,FC Arouca,9,13,3,4,5,13,18,Jornada 12
+1668293661-245,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,CD Tondela,10,12,4,0,8,17,23,Jornada 12
+1668293661-246,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,Boavista,11,11,2,5,5,15,22,Jornada 12
+1668293661-247,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,Paços de Ferreira,12,11,2,5,5,9,16,Jornada 12
+1668293661-248,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,FC Famalicão,13,10,2,4,6,16,20,Jornada 12
+1668293661-249,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,FC Vizela,14,10,1,7,4,10,20,Jornada 12
+1668293661-250,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,Marítimo,15,10,2,4,6,12,17,Jornada 12
+1668293661-251,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,Moreirense,16,9,1,6,5,14,22,Jornada 12
+1668293661-252,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,B SAD,17,8,1,5,6,7,22,Jornada 12
+1668293661-253,https://www.zerozero.pt/edition.php?jornada_in=12&id_edicao=156405&fase=150343,Santa Clara,18,7,1,4,7,9,25,Jornada 12
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293626-218,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,FC Porto,1,29,9,2,0,28,7,Jornada 11
+1668293626-219,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,Sporting,2,29,9,2,0,17,4,Jornada 11
+1668293626-220,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,Benfica,3,28,9,1,1,27,7,Jornada 11
+1668293626-221,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,Estoril Praia,4,20,5,5,1,16,9,Jornada 11
+1668293626-222,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,SC Braga,5,19,5,4,2,17,14,Jornada 11
+1668293626-223,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,Portimonense,6,17,5,2,4,10,9,Jornada 11
+1668293626-224,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,Vitória SC,7,16,4,4,3,13,10,Jornada 11
+1668293626-225,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,Gil Vicente,8,13,3,4,4,13,13,Jornada 11
+1668293626-226,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,CD Tondela,9,12,4,0,7,17,21,Jornada 11
+1668293626-227,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,Boavista,10,11,2,5,4,14,20,Jornada 11
+1668293626-228,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,Paços de Ferreira,11,11,2,5,4,9,14,Jornada 11
+1668293626-229,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,FC Arouca,12,10,2,4,5,11,17,Jornada 11
+1668293626-230,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,FC Vizela,13,10,1,7,3,9,16,Jornada 11
+1668293626-231,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,FC Famalicão,14,10,2,4,5,16,17,Jornada 11
+1668293626-232,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,Moreirense,15,8,1,5,5,12,20,Jornada 11
+1668293626-233,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,B SAD,16,8,1,5,5,7,15,Jornada 11
+1668293626-234,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,Marítimo,17,7,1,4,6,10,17,Jornada 11
+1668293626-235,https://www.zerozero.pt/edition.php?jornada_in=11&id_edicao=156405&fase=150343,Santa Clara,18,6,1,3,7,7,23,Jornada 11
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294061-380,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,FC Porto,1,56,18,2,0,53,14,Jornada 20
+1668294061-381,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,Sporting,2,50,16,2,2,39,13,Jornada 20
+1668294061-382,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,Benfica,3,44,14,2,4,53,18,Jornada 20
+1668294061-383,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,SC Braga,4,38,11,5,4,36,20,Jornada 20
+1668294061-384,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,Gil Vicente,5,33,9,6,5,30,22,Jornada 20
+1668294061-385,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,Vitória SC,6,27,7,6,7,30,25,Jornada 20
+1668294061-386,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,Estoril Praia,7,26,6,8,6,25,24,Jornada 20
+1668294061-387,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,Portimonense,8,25,7,4,9,20,22,Jornada 20
+1668294061-388,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,Marítimo,9,24,6,6,8,25,30,Jornada 20
+1668294061-389,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,Santa Clara,10,23,6,5,9,23,37,Jornada 20
+1668294061-390,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,FC Vizela,11,22,5,7,8,22,34,Jornada 20
+1668294061-391,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,Paços de Ferreira,12,20,4,8,8,14,23,Jornada 20
+1668294061-392,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,CD Tondela,13,20,6,2,12,28,40,Jornada 20
+1668294061-393,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,Boavista,14,19,3,10,7,22,31,Jornada 20
+1668294061-394,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,FC Arouca,15,18,4,6,10,19,36,Jornada 20
+1668294061-395,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,FC Famalicão,16,17,3,8,9,23,35,Jornada 20
+1668294061-396,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,Moreirense,17,16,3,7,10,18,31,Jornada 20
+1668294061-397,https://www.zerozero.pt/edition.php?jornada_in=20&id_edicao=156405&fase=150343,B SAD,18,12,2,6,12,12,37,Jornada 20
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293595-200,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,FC Porto,1,26,8,2,0,25,7,Jornada 10
+1668293595-201,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,Sporting,2,26,8,2,0,15,4,Jornada 10
+1668293595-202,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,Benfica,3,25,8,1,1,21,6,Jornada 10
+1668293595-203,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,SC Braga,4,19,5,4,1,16,8,Jornada 10
+1668293595-204,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,Estoril Praia,5,19,5,4,1,15,8,Jornada 10
+1668293595-205,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,Portimonense,6,14,4,2,4,8,9,Jornada 10
+1668293595-206,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,Vitória SC,7,13,3,4,3,11,9,Jornada 10
+1668293595-207,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,Gil Vicente,8,12,3,3,4,12,12,Jornada 10
+1668293595-208,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,Boavista,9,11,2,5,3,12,15,Jornada 10
+1668293595-209,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,Paços de Ferreira,10,11,2,5,3,9,12,Jornada 10
+1668293595-210,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,FC Arouca,11,9,2,3,5,10,16,Jornada 10
+1668293595-211,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,FC Vizela,12,9,1,6,3,8,15,Jornada 10
+1668293595-212,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,CD Tondela,13,9,3,0,7,13,19,Jornada 10
+1668293595-213,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,Moreirense,14,8,1,5,4,11,18,Jornada 10
+1668293595-214,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,B SAD,15,8,1,5,4,7,13,Jornada 10
+1668293595-215,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,FC Famalicão,16,7,1,4,5,11,15,Jornada 10
+1668293595-216,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,Marítimo,17,7,1,4,5,8,13,Jornada 10
+1668293595-217,https://www.zerozero.pt/edition.php?jornada_in=10&id_edicao=156405&fase=150343,Santa Clara,18,6,1,3,6,7,20,Jornada 10
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293541-182,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,Benfica,1,24,8,0,1,20,5,Jornada 9
+1668293541-183,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,FC Porto,2,23,7,2,0,21,6,Jornada 9
+1668293541-184,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,Sporting,3,23,7,2,0,14,4,Jornada 9
+1668293541-185,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,Estoril Praia,4,18,5,3,1,14,7,Jornada 9
+1668293541-186,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,SC Braga,5,16,4,4,1,13,8,Jornada 9
+1668293541-187,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,Portimonense,6,14,4,2,3,8,6,Jornada 9
+1668293541-188,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,Vitória SC,7,13,3,4,2,11,8,Jornada 9
+1668293541-189,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,Boavista,8,11,2,5,2,11,11,Jornada 9
+1668293541-190,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,Paços de Ferreira,9,10,2,4,3,8,11,Jornada 9
+1668293541-191,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,Gil Vicente,10,9,2,3,4,10,11,Jornada 9
+1668293541-192,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,CD Tondela,11,9,3,0,6,13,17,Jornada 9
+1668293541-193,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,FC Vizela,12,8,1,5,3,7,14,Jornada 9
+1668293541-194,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,Marítimo,13,7,1,4,4,7,11,Jornada 9
+1668293541-195,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,Moreirense,14,7,1,4,4,10,17,Jornada 9
+1668293541-196,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,FC Famalicão,15,6,1,3,5,10,14,Jornada 9
+1668293541-197,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,FC Arouca,16,6,1,3,5,8,16,Jornada 9
+1668293541-198,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,Santa Clara,17,6,1,3,5,6,18,Jornada 9
+1668293541-199,https://www.zerozero.pt/edition.php?jornada_in=9&id_edicao=156405&fase=150343,B SAD,18,5,0,5,4,5,12,Jornada 9
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293420-164,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,Benfica,1,21,7,0,1,19,5,Jornada 8
+1668293420-165,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,FC Porto,2,20,6,2,0,18,5,Jornada 8
+1668293420-166,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,Sporting,3,20,6,2,0,13,4,Jornada 8
+1668293420-167,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,Estoril Praia,4,15,4,3,1,12,7,Jornada 8
+1668293420-168,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,Portimonense,5,14,4,2,2,8,4,Jornada 8
+1668293420-169,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,SC Braga,6,13,3,4,1,12,8,Jornada 8
+1668293420-170,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,Vitória SC,7,10,2,4,2,9,7,Jornada 8
+1668293420-171,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,Boavista,8,10,2,4,2,11,11,Jornada 8
+1668293420-172,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,Gil Vicente,9,9,2,3,3,10,10,Jornada 8
+1668293420-173,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,CD Tondela,10,9,3,0,5,12,14,Jornada 8
+1668293420-174,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,Paços de Ferreira,11,9,2,3,3,8,11,Jornada 8
+1668293420-175,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,FC Vizela,12,8,1,5,2,7,13,Jornada 8
+1668293420-176,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,Marítimo,13,7,1,4,3,6,9,Jornada 8
+1668293420-177,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,Moreirense,14,7,1,4,3,10,16,Jornada 8
+1668293420-178,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,Santa Clara,15,6,1,3,4,6,16,Jornada 8
+1668293420-179,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,FC Arouca,16,5,1,2,5,8,16,Jornada 8
+1668293420-180,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,B SAD,17,4,0,4,4,5,12,Jornada 8
+1668293420-181,https://www.zerozero.pt/edition.php?jornada_in=8&id_edicao=156405&fase=150343,FC Famalicão,18,3,0,3,5,8,14,Jornada 8
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293380-146,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,Benfica,1,21,7,0,0,19,4,Jornada 7
+1668293380-147,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,FC Porto,2,17,5,2,0,16,4,Jornada 7
+1668293380-148,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,Sporting,3,17,5,2,0,11,3,Jornada 7
+1668293380-149,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,Estoril Praia,4,14,4,2,1,10,5,Jornada 7
+1668293380-150,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,SC Braga,5,12,3,3,1,10,6,Jornada 7
+1668293380-151,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,Portimonense,6,11,3,2,2,7,4,Jornada 7
+1668293380-152,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,Boavista,7,9,2,3,2,9,9,Jornada 7
+1668293380-153,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,Paços de Ferreira,8,9,2,3,2,7,9,Jornada 7
+1668293380-154,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,Gil Vicente,9,8,2,2,3,8,8,Jornada 7
+1668293380-155,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,Vitória SC,10,7,1,4,2,7,6,Jornada 7
+1668293380-156,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,FC Vizela,11,7,1,4,2,6,12,Jornada 7
+1668293380-157,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,Marítimo,12,6,1,3,3,6,9,Jornada 7
+1668293380-158,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,CD Tondela,13,6,2,0,5,10,14,Jornada 7
+1668293380-159,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,Moreirense,14,6,1,3,3,10,16,Jornada 7
+1668293380-160,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,FC Arouca,15,5,1,2,4,7,14,Jornada 7
+1668293380-161,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,Santa Clara,16,5,1,2,4,5,15,Jornada 7
+1668293380-162,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,B SAD,17,4,0,4,3,5,10,Jornada 7
+1668293380-163,https://www.zerozero.pt/edition.php?jornada_in=7&id_edicao=156405&fase=150343,FC Famalicão,18,3,0,3,4,7,12,Jornada 7
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293337-128,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,Benfica,1,18,6,0,0,16,3,Jornada 6
+1668293337-129,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,FC Porto,2,14,4,2,0,14,3,Jornada 6
+1668293337-130,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,Sporting,3,14,4,2,0,10,3,Jornada 6
+1668293337-131,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,Estoril Praia,4,13,4,1,1,9,4,Jornada 6
+1668293337-132,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,SC Braga,5,11,3,2,1,9,5,Jornada 6
+1668293337-133,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,Portimonense,6,10,3,1,2,7,4,Jornada 6
+1668293337-134,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,Gil Vicente,7,8,2,2,2,7,6,Jornada 6
+1668293337-135,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,Boavista,8,8,2,2,2,8,8,Jornada 6
+1668293337-136,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,Paços de Ferreira,9,8,2,2,2,5,7,Jornada 6
+1668293337-137,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,Vitória SC,10,7,1,4,1,6,3,Jornada 6
+1668293337-138,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,Marítimo,11,6,1,3,2,6,8,Jornada 6
+1668293337-139,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,FC Vizela,12,6,1,3,2,6,12,Jornada 6
+1668293337-140,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,FC Arouca,13,5,1,2,3,6,12,Jornada 6
+1668293337-141,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,Santa Clara,14,4,1,1,4,4,14,Jornada 6
+1668293337-142,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,Moreirense,15,3,0,3,3,8,15,Jornada 6
+1668293337-143,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,FC Famalicão,16,3,0,3,3,5,9,Jornada 6
+1668293337-144,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,B SAD,17,3,0,3,3,3,8,Jornada 6
+1668293337-145,https://www.zerozero.pt/edition.php?jornada_in=6&id_edicao=156405&fase=150343,CD Tondela,18,3,1,0,5,7,12,Jornada 6
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293283-110,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,Benfica,1,15,5,0,0,13,2,Jornada 5
+1668293283-111,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,Estoril Praia,2,13,4,1,0,9,3,Jornada 5
+1668293283-112,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,FC Porto,3,11,3,2,0,9,3,Jornada 5
+1668293283-113,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,Sporting,4,11,3,2,0,9,3,Jornada 5
+1668293283-114,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,Boavista,5,8,2,2,1,7,5,Jornada 5
+1668293283-115,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,SC Braga,6,8,2,2,1,6,4,Jornada 5
+1668293283-116,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,Gil Vicente,7,7,2,1,2,6,5,Jornada 5
+1668293283-117,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,Paços de Ferreira,8,7,2,1,2,4,6,Jornada 5
+1668293283-118,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,Portimonense,9,7,2,1,2,5,3,Jornada 5
+1668293283-119,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,Vitória SC,10,6,1,3,1,4,1,Jornada 5
+1668293283-120,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,Marítimo,11,5,1,2,2,6,8,Jornada 5
+1668293283-121,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,FC Vizela,12,5,1,2,2,5,11,Jornada 5
+1668293283-122,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,FC Arouca,13,4,1,1,3,4,10,Jornada 5
+1668293283-123,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,Santa Clara,14,4,1,1,3,3,12,Jornada 5
+1668293283-124,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,Moreirense,15,3,0,3,2,8,10,Jornada 5
+1668293283-125,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,CD Tondela,16,3,1,0,4,6,9,Jornada 5
+1668293283-126,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,FC Famalicão,17,2,0,2,3,5,9,Jornada 5
+1668293283-127,https://www.zerozero.pt/edition.php?jornada_in=5&id_edicao=156405&fase=150343,B SAD,18,2,0,2,3,2,7,Jornada 5
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293153-92,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,Sporting,1,9,3,0,0,7,1,Jornada 3
+1668293153-93,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,Benfica,2,9,3,0,0,6,1,Jornada 3
+1668293153-94,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,Estoril Praia,3,7,2,1,0,5,1,Jornada 3
+1668293153-95,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,FC Porto,4,7,2,1,0,5,2,Jornada 3
+1668293153-96,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,Gil Vicente,5,6,2,0,1,4,2,Jornada 3
+1668293153-97,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,SC Braga,6,6,2,0,1,6,4,Jornada 3
+1668293153-98,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,Portimonense,7,6,2,0,1,4,1,Jornada 3
+1668293153-99,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,Boavista,8,6,2,0,1,5,3,Jornada 3
+1668293153-100,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,Vitória SC,9,4,1,1,1,4,1,Jornada 3
+1668293153-101,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,Marítimo,10,4,1,1,1,3,4,Jornada 3
+1668293153-102,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,FC Vizela,11,3,1,0,2,2,8,Jornada 3
+1668293153-103,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,Paços de Ferreira,12,3,1,0,2,3,6,Jornada 3
+1668293153-104,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,FC Arouca,13,3,1,0,2,2,5,Jornada 3
+1668293153-105,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,CD Tondela,14,3,1,0,2,4,5,Jornada 3
+1668293153-106,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,Moreirense,15,1,0,1,2,5,7,Jornada 3
+1668293153-107,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,Santa Clara,16,1,0,1,2,2,7,Jornada 3
+1668293153-108,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,FC Famalicão,17,0,0,0,3,2,6,Jornada 3
+1668293153-109,https://www.zerozero.pt/edition.php?jornada_in=3&id_edicao=156405&fase=150343,B SAD,18,0,0,0,3,1,6,Jornada 3
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668293108-74,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,Benfica,1,12,4,0,0,8,2,Jornada 4
+1668293108-75,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,FC Porto,2,10,3,1,0,8,2,Jornada 4
+1668293108-76,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,Sporting,3,10,3,1,0,8,2,Jornada 4
+1668293108-77,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,Estoril Praia,4,10,3,1,0,7,2,Jornada 4
+1668293108-78,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,SC Braga,5,7,2,1,1,6,4,Jornada 4
+1668293108-79,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,Boavista,6,7,2,1,1,6,4,Jornada 4
+1668293108-80,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,Gil Vicente,7,6,2,0,2,4,3,Jornada 4
+1668293108-81,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,Paços de Ferreira,8,6,2,0,2,4,6,Jornada 4
+1668293108-82,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,Portimonense,9,6,2,0,2,4,2,Jornada 4
+1668293108-83,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,Vitória SC,10,5,1,2,1,4,1,Jornada 4
+1668293108-84,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,Marítimo,11,4,1,1,2,4,6,Jornada 4
+1668293108-85,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,Santa Clara,12,4,1,1,2,3,7,Jornada 4
+1668293108-86,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,FC Vizela,13,4,1,1,2,3,9,Jornada 4
+1668293108-87,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,CD Tondela,14,3,1,0,3,5,7,Jornada 4
+1668293108-88,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,FC Arouca,15,3,1,0,3,2,8,Jornada 4
+1668293108-89,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,Moreirense,16,2,0,2,2,6,8,Jornada 4
+1668293108-90,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,FC Famalicão,17,1,0,1,3,3,7,Jornada 4
+1668293108-91,https://www.zerozero.pt/edition.php?jornada_in=4&id_edicao=156405&fase=150343,B SAD,18,1,0,1,3,2,7,Jornada 4
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668292994-38,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,Sporting,1,6,2,0,0,5,1,Jornada 2
+1668292994-39,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,Gil Vicente,2,6,2,0,0,4,0,Jornada 2
+1668292994-40,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,FC Porto,3,6,2,0,0,4,1,Jornada 2
+1668292994-41,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,Benfica,4,6,2,0,0,4,1,Jornada 2
+1668292994-42,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,Estoril Praia,5,4,1,1,0,2,0,Jornada 2
+1668292994-43,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,Boavista,6,3,1,0,1,3,3,Jornada 2
+1668292994-44,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,SC Braga,7,3,1,0,1,3,2,Jornada 2
+1668292994-45,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,FC Vizela,8,3,1,0,1,2,4,Jornada 2
+1668292994-46,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,Portimonense,9,3,1,0,1,1,1,Jornada 2
+1668292994-47,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,CD Tondela,10,3,1,0,1,4,2,Jornada 2
+1668292994-48,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,Marítimo,11,3,1,0,1,2,3,Jornada 2
+1668292994-49,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,Paços de Ferreira,12,3,1,0,1,2,3,Jornada 2
+1668292994-50,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,Moreirense,13,1,0,1,1,3,4,Jornada 2
+1668292994-51,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,Santa Clara,14,1,0,1,1,2,5,Jornada 2
+1668292994-52,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,Vitória SC,15,1,0,1,1,0,1,Jornada 2
+1668292994-53,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,B SAD,16,0,0,0,2,1,4,Jornada 2
+1668292994-54,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,FC Famalicão,17,0,0,0,2,1,4,Jornada 2
+1668292994-55,https://www.zerozero.pt/edition.php?jornada_in=2&id_edicao=156405&fase=150343,FC Arouca,18,0,0,0,2,0,4,Jornada 2
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668292941-20,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,Sporting,1,3,1,0,0,3,0,Jornada 1
+1668292941-21,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,Gil Vicente,2,3,1,0,0,3,0,Jornada 1
+1668292941-22,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,CD Tondela,3,3,1,0,0,3,0,Jornada 1
+1668292941-23,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,FC Porto,4,3,1,0,0,2,0,Jornada 1
+1668292941-24,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,Paços de Ferreira,5,3,1,0,0,2,0,Jornada 1
+1668292941-25,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,SC Braga,6,3,1,0,0,2,0,Jornada 1
+1668292941-26,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,Estoril Praia,7,3,1,0,0,2,0,Jornada 1
+1668292941-27,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,Benfica,8,3,1,0,0,2,1,Jornada 1
+1668292941-28,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,Portimonense,9,3,1,0,0,1,0,Jornada 1
+1668292941-29,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,Moreirense,10,0,0,0,1,1,2,Jornada 1
+1668292941-30,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,Vitória SC,11,0,0,0,1,0,1,Jornada 1
+1668292941-31,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,Marítimo,12,0,0,0,1,0,2,Jornada 1
+1668292941-32,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,FC Famalicão,13,0,0,0,1,0,2,Jornada 1
+1668292941-33,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,FC Arouca,14,0,0,0,1,0,2,Jornada 1
+1668292941-34,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,B SAD,15,0,0,0,1,0,2,Jornada 1
+1668292941-35,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,FC Vizela,16,0,0,0,1,0,3,Jornada 1
+1668292941-36,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,Santa Clara,17,0,0,0,1,0,3,Jornada 1
+1668292941-37,https://www.zerozero.pt/edition.php?jornada_in=1&id_edicao=156405&fase=150343,Boavista,18,0,0,0,1,0,3,Jornada 1
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668295002-632,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,FC Porto,1,91,29,4,1,86,22,Jornada 34
+1668295002-633,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,Sporting,2,85,27,4,3,73,23,Jornada 34
+1668295002-634,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,Benfica,3,74,23,5,6,78,30,Jornada 34
+1668295002-635,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,SC Braga,4,65,19,8,7,52,31,Jornada 34
+1668295002-636,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,Gil Vicente,5,51,13,12,9,47,42,Jornada 34
+1668295002-637,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,Vitória SC,6,48,13,9,12,50,41,Jornada 34
+1668295002-638,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,Santa Clara,7,40,9,13,12,38,54,Jornada 34
+1668295002-639,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,FC Famalicão,8,39,9,12,13,45,51,Jornada 34
+1668295002-640,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,Estoril Praia,9,39,9,12,13,36,43,Jornada 34
+1668295002-641,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,Marítimo,10,38,9,11,14,39,44,Jornada 34
+1668295002-642,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,Paços de Ferreira,11,38,9,11,14,29,44,Jornada 34
+1668295002-643,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,Boavista,12,38,7,17,10,39,52,Jornada 34
+1668295002-644,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,Portimonense,13,38,10,8,16,31,45,Jornada 34
+1668295002-645,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,FC Vizela,14,33,7,12,15,37,58,Jornada 34
+1668295002-646,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,FC Arouca,15,31,7,10,17,30,54,Jornada 34
+1668295002-647,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,Moreirense,16,29,7,8,19,33,51,Jornada 34
+1668295002-648,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,CD Tondela,17,28,7,7,20,41,67,Jornada 34
+1668295002-649,https://www.zerozero.pt/edition.php?jornada_in=34&id_edicao=156405&fase=150343,B SAD,18,26,5,11,18,23,55,Jornada 34
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294968-614,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,FC Porto,1,88,28,4,1,84,22,Jornada 33
+1668294968-615,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,Sporting,2,82,26,4,3,69,23,Jornada 33
+1668294968-616,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,Benfica,3,71,22,5,6,76,30,Jornada 33
+1668294968-617,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,SC Braga,4,65,19,8,6,50,28,Jornada 33
+1668294968-618,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,Gil Vicente,5,51,13,12,8,47,37,Jornada 33
+1668294968-619,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,Vitória SC,6,45,12,9,12,45,41,Jornada 33
+1668294968-620,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,Santa Clara,7,40,9,13,11,38,50,Jornada 33
+1668294968-621,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,Estoril Praia,8,39,9,12,12,36,41,Jornada 33
+1668294968-622,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,Marítimo,9,38,9,11,13,39,43,Jornada 33
+1668294968-623,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,Paços de Ferreira,10,38,9,11,13,29,42,Jornada 33
+1668294968-624,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,Boavista,11,37,7,16,10,37,50,Jornada 33
+1668294968-625,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,FC Famalicão,12,36,8,12,13,42,49,Jornada 33
+1668294968-626,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,Portimonense,13,35,9,8,16,30,45,Jornada 33
+1668294968-627,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,FC Vizela,14,33,7,12,14,36,54,Jornada 33
+1668294968-628,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,FC Arouca,15,30,7,9,17,30,54,Jornada 33
+1668294968-629,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,CD Tondela,16,27,7,6,20,39,65,Jornada 33
+1668294968-630,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,Moreirense,17,26,6,8,19,29,50,Jornada 33
+1668294968-631,https://www.zerozero.pt/edition.php?jornada_in=33&id_edicao=156405&fase=150343,B SAD,18,25,5,10,18,23,55,Jornada 33
+web-scraper-order,web-scraper-start-url,Clube,Lugar,Pontos,Vitorias,Empates,Derrotas,GolosMarcados,GolosSofridos,Jornada
+1668294926-596,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,FC Porto,1,85,27,4,1,83,22,Jornada 32
+1668294926-597,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,Sporting,2,79,25,4,3,66,21,Jornada 32
+1668294926-598,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,Benfica,3,71,22,5,5,76,29,Jornada 32
+1668294926-599,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,SC Braga,4,62,18,8,6,49,28,Jornada 32
+1668294926-600,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,Gil Vicente,5,48,12,12,8,44,37,Jornada 32
+1668294926-601,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,Vitória SC,6,44,12,8,12,44,40,Jornada 32
+1668294926-602,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,Paços de Ferreira,7,38,9,11,12,29,40,Jornada 32
+1668294926-603,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,Marítimo,8,37,9,10,13,38,42,Jornada 32
+1668294926-604,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,Santa Clara,9,37,8,13,11,36,50,Jornada 32
+1668294926-605,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,Boavista,10,36,7,15,10,36,49,Jornada 32
+1668294926-606,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,Estoril Praia,11,36,8,12,12,35,41,Jornada 32
+1668294926-607,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,Portimonense,12,35,9,8,15,28,42,Jornada 32
+1668294926-608,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,FC Famalicão,13,33,7,12,13,39,47,Jornada 32
+1668294926-609,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,FC Vizela,14,32,7,11,14,35,53,Jornada 32
+1668294926-610,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,FC Arouca,15,30,7,9,16,30,53,Jornada 32
+1668294926-611,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,CD Tondela,16,27,7,6,19,39,62,Jornada 32
+1668294926-612,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,Moreirense,17,26,6,8,18,29,49,Jornada 32
+1668294926-613,https://www.zerozero.pt/edition.php?jornada_in=32&id_edicao=156405&fase=150343,B SAD,18,25,5,10,17,21,52,Jornada 32
